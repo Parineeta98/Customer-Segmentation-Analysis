@@ -4,7 +4,7 @@ Overview:
 This project implements an advanced customer segmentation strategy for banks using machine learning techniques, specifically K-Means clustering and Decision Trees, to analyze transaction behaviors and customer financial patterns.
 
 Key Features:
-Clustering Techniques: K-Means algorithm
+Clustering Techniques: K-Means algorithm  
 Key Metrics Analyzed:
 - Account Balance
 - Purchase Behavior
