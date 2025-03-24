@@ -5,6 +5,7 @@ This project implements an advanced customer segmentation strategy for banks usi
 
 Key Features:
 Clustering Techniques: K-Means algorithm  
+
 Key Metrics Analyzed:
 - Account Balance
 - Purchase Behavior
